@@ -35,6 +35,6 @@ lane7 = str(input('Que lane o {} jogará? '.format(p7)))
 lane8 = str(input('Que lane o {} jogará? '.format(p8)))
 lane9 = str(input('Que lane o {} jogará? '.format(p9)))
 lane10 = str(input('Que lane o {} jogará? '.format(p10)))
-#Print the lanes.
+#Print the lanes of the players.
 print("As lanes ficaram separadas como, \n{} na lane {}\n{} na lane {}\n{} na lane {}\n{} na lane {}\n{} na lane {}\n{} na lane {}\n{} na lane {}\n{} na lane {}\n{} na lane {}\n{} na lane {}".format(p1, lane1, p2 , lane2, p3 , lane3, p4, lane4, p5,lane5,p6,lane6,p7,lane7,p8, lane8,p9,lane9,p10,lane10))
 #👊🏿

@@ -1,4 +1,3 @@
-#Btw sorry for bad english im Brazilian 🇧🇷
 import random
 
 #Chose the players
@@ -21,6 +20,6 @@ times = [p1 ,p2 ,p3 ,p4 ,p5 ,p6 ,p7 ,p8, p9, p10]
 random.shuffle(times)
 time1, time2 = times[:5], times[5:]
 #Print the two teams.
-print("O primeiro time é {}".format(time1))  #The first team is {}
-print("O Segundo time é {}".format(time2))   #The second team is {}
+print(f"O primeiro time é {time1}")  #The first team is {}
+print(f"O Segundo time é {time2}")   #The second team is {}
 #👊🏿
